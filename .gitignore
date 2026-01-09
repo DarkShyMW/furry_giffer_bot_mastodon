@@ -1,0 +1,6 @@
+config.env
+giffer_state.json
+*.log
+**pycache**/
+*.pyc
+.venv/
